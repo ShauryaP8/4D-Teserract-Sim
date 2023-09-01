@@ -1,13 +1,4 @@
-// JavaScript transcription: Chuck England
-// Daniel Shiffman
-// http://youtube.com/thecodingtrain
-// http://codingtra.in
 
-// Coding Challenge #113: 4D Hypercube
-// https://youtu.be/XE3YDVdQSPo
-
-// Matrix Multiplication
-// https://youtu.be/tzsgS19RRc8
 
 function vecToMatrix(v) {
     let m = [];
